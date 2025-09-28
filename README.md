@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Mahmoud+Gamal;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Mahmoud+Gamal;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <a href="#">
     <h3 align="center">
@@ -9,14 +9,13 @@
     </h3>
 </a>
 
-Hi! I am Mahmoud Gamal, a passionate student and **.NET Developer** 🚀.  
-Currently learning **C#, OOP, and problem-solving** using Visual Studio to sharpen my skills 💻.
+Hi! I am a student passionate about programming 🚀.  
+Currently learning **C#, OOP, and problem-solving** using Visual Studio to build my skills 💻.
 
 ---
 
 ### 🛠️ Skills & Tools
 - **Programming Languages:** C++, C#, MySQL, Data Structures  
-- **Other Interests:** Problem Solving, Clean Code, Software Design
 
 ---
 
